@@ -1,3 +1,4 @@
 # CSC154_SerinaRodriguez
 
-Welcome to Branch1
+Welcome to Branch 1
+Hello Branch2!
